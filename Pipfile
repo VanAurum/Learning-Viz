@@ -6,6 +6,10 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+numpy = "*"
+matplotlib = "*"
+sklearn = "*"
+imageio = "*"
 
 [requires]
 python_version = "3.7"
