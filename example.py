@@ -1,10 +1,9 @@
 #Standard python imports
-from sklearn.datasets import make_moons, make_circles, make_classification, make_multilabel_classification
+from sklearn.datasets import make_moons
 
 #Local imports
 from learning_viz.learning_viz import plot_decision_bounds
 from learning_viz.make_models import generate_models
-
 
 
 if __name__=='__main__':
